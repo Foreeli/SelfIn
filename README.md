@@ -1,2 +1,2 @@
 # SelfIn
-http://foreeli.umie.li/SelfIn/
+http://foreeli.github.io/SelfIn/
