@@ -59,13 +59,13 @@ img {
   background-color: #fff
 }
 
-.language, .tool, .platform {
+.language, .tool, .platform .social {
   border-color: #990000;
   width: 100%
 }
 
 .theme {
-  border-style: double;
+  border-style: normal;
   border-color: #990000;
 }
 
