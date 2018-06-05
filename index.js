@@ -15,7 +15,7 @@ friction = 0.90;
 // This variable controls how much the dots will rotate when interacting
 rotationForce = 0.01;
 
-message = 'ShinnosukeSone';
+message = 'Shinnosuke Sone';
 
 drawName(message, letterColors);
 bounceBubbles();

@@ -13,7 +13,7 @@ body {
   font-size: 16px;
   line-height: 1.5em;
   color: #545454;
-  background-color: #95ccae;
+  background-color: #fff;
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
 }
 
@@ -56,13 +56,12 @@ img {
 }
 
 .bio {
-  background-color: #cc66ff
+  background-color: #fff
 }
 
 .language, .tool, .platform {
-  border-style: double;
   border-color: #990000;
-  width: 48%
+  width: 100%
 }
 
 .theme {
@@ -72,4 +71,14 @@ img {
 
 .wrap {
   overflow: hidden;
+}
+
+.box {
+  border:10px solid #777;
+  padding:10px;
+  text-align:center;
+  margin:0 auto;
+}
+.box .p1{
+  float:left;
 }
